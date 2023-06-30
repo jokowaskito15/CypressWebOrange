@@ -1,0 +1,7 @@
+{
+    "txtUsername" : ":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-input",
+    "txtPassword" : ":nth-child(3) > .oxd-input-group > :nth-child(2) > .oxd-input",
+    "btnLogin" : ".oxd-button",
+    "btnProfil" : ".oxd-userdropdown-tab",
+    "btnLogout" : ":nth-child(4) > .oxd-userdropdown-link"
+}

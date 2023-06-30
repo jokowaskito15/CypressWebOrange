@@ -1,0 +1,11 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "bebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "bebas lagi"
+  },
+  "author": "joko ganteng",
+  "license": "ISC"
+}
